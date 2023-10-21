@@ -1,0 +1,99 @@
+Estacion: Aeropuerto Internacional
+Latitud: 19.4362
+Longitud: -99.0728
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 28.3
+Humedad: 56
+Presion: 1012.3
+Viento: 14.5,ESE
+
+Estacion: Centro Historico
+Latitud: 19.4326
+Longitud: -99.1332
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 27.1
+Humedad: 60
+Presion: 1011.9
+Viento: 12.8,N
+
+Estacion: Coyoacon
+Latitud: 19.3462
+Longitud: -99.1626
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 25.9
+Humedad: 62
+Presion: 1012.1
+Viento: 10.2,S
+
+Estacion: Polanco
+Latitud: 19.4344
+Longitud: -99.1971
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 27.6
+Humedad: 58
+Presion: 1011.6
+Viento: 8.9,NE
+
+Estacion: Xochimilco
+Latitud: 19.2560
+Longitud: -99.1037
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 24.8
+Humedad: 65
+Presion: 1012.4
+Viento: 11.1,W
+
+Estacion: Santa Fe
+Latitud: 19.3615
+Longitud: -99.2736
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 25.6
+Humedad: 63
+Presion: 1012.6
+Viento: 7.6,NW
+
+Estacion: Ciudad Universitaria
+Latitud: 19.3189
+Longitud: -99.1821
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 26.2
+Humedad: 61
+Presion: 1012.0
+Viento: 6.2,SW
+
+Estacion: Reforma
+Latitud: 19.4300
+Longitud: -99.1550
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 27.8
+Humedad: 57
+Presion: 1012.2
+Viento: 9.8,E
+
+Estacion: Tlalpan
+Latitud: 19.2894
+Longitud: -99.1669
+Fecha: 04/05/2023
+Hora: 15:00
+Temperatura: 24.6
+Humedad: 66
+Presion: 1012.5
+Viento: 12.1,SE
+
+Estacion: Cuajimalpa
+Latitud: 19.360830
+Longitud: -99.296890
+Fecha: 04/05/2023
+Hora: 22:30
+Temperatura: 22.5
+Humedad: 64.8
+Presion: 1013.2
+Viento: 5.2,ENE
